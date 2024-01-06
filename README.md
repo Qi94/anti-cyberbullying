@@ -1,4 +1,4 @@
-# anti-cyberbullying
+# Game-theoretic modeling and analysis of cyberbullying spreading on OSNs
 
 ## 01_raw 
 This folder includes the raw data used in this paper (1k nodes, 5k nodes, and 10k nodes), downloaded from 'https://networkrepository.com/'. 
